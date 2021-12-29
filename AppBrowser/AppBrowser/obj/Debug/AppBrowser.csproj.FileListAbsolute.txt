@@ -1,0 +1,10 @@
+D:\src\home\browser\AppBrowser\AppBrowser\bin\Debug\AppBrowser.exe.config
+D:\src\home\browser\AppBrowser\AppBrowser\bin\Debug\AppBrowser.exe
+D:\src\home\browser\AppBrowser\AppBrowser\bin\Debug\AppBrowser.pdb
+D:\src\home\browser\AppBrowser\AppBrowser\obj\Debug\AppBrowser.csproj.AssemblyReference.cache
+D:\src\home\browser\AppBrowser\AppBrowser\obj\Debug\AppBrowser.Form1.resources
+D:\src\home\browser\AppBrowser\AppBrowser\obj\Debug\AppBrowser.Properties.Resources.resources
+D:\src\home\browser\AppBrowser\AppBrowser\obj\Debug\AppBrowser.csproj.GenerateResource.cache
+D:\src\home\browser\AppBrowser\AppBrowser\obj\Debug\AppBrowser.csproj.CoreCompileInputs.cache
+D:\src\home\browser\AppBrowser\AppBrowser\obj\Debug\AppBrowser.exe
+D:\src\home\browser\AppBrowser\AppBrowser\obj\Debug\AppBrowser.pdb
